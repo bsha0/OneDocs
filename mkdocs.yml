@@ -1,0 +1,6 @@
+site_name: OneDocs
+
+theme:
+  name: readthedocs
+  include_homepage_in_sidebar: false
+  titles_only: true
